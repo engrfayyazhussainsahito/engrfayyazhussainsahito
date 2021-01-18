@@ -23,6 +23,7 @@ The State of AI in Pakistan- A review
 AI
 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkenIn
+- 😄 Pronouns: Phayyaz
+
+- ⚡ Fun fact: A lot 
