@@ -1,9 +1,4 @@
-### Hi there I'm Fayyaz Hussain Sahito 👋
-
-<!--
-**FayyazHussainsahito28/fayyazhussainsahito28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+### Hi there I'm Fayyaz Hussain Sahito 👋⚡
 
 - 🔭 I’m currently working on
 UWSN MAC protocol- A review (Under Publishing process)
@@ -27,3 +22,9 @@ LinkenIn
 - 😄 Pronouns: Phayyaz
 
 - ⚡ Fun fact: A lot 
+<!--
+**FayyazHussainsahito28/fayyazhussainsahito28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
