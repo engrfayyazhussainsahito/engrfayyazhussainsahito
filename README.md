@@ -2,21 +2,21 @@
 
 - 🔭 I’m currently working on: 
 
-            -⚡ UWSN MAC protocol- A review*
+                        -⚡ UWSN MAC protocol- A review*
     
-            -⚡ Sentiment Analysis for Product, Content and Video*
+                        -⚡ Sentiment Analysis for Product, Content and Video*
 
 - 🌱 I’m currently learning: 
 
-    -:) MATLAB
+            :) MATLAB
 
-    -:) PYTHON
+            :) PYTHON
 
-    -:) AI
+            :) AI
 
-    -:) Machine learning
+            :) Machine learning
 
-    -:) Deep learning
+            :) Deep learning
 
 - 👯 I’m looking to collaborate on ...
 
@@ -24,7 +24,7 @@
 
 
 - 🤔 I’m looking for help with ...
-    Always in MATLAB.
+                    Always in MATLAB.
 
 - 💬 Ask me about ...
 
