@@ -2,43 +2,43 @@
 
 - 🔭 I’m currently working on: 
 
-    ⚡ UWSN MAC protocol- A review*
+            -⚡ UWSN MAC protocol- A review*
     
-    ⚡ Sentiment Analysis for Product, Content and Video*
+            -⚡ Sentiment Analysis for Product, Content and Video*
 
 - 🌱 I’m currently learning: 
 
-  :) MATLAB
+    -:) MATLAB
 
-  :) PYTHON
+    -:) PYTHON
 
-  :) AI
+    -:) AI
 
-  :) Machine learning
+    -:) Machine learning
 
-  :) Deep learning
+    -:) Deep learning
 
 - 👯 I’m looking to collaborate on ...
 
-The State of AI in Pakistan- A review
+        The State of AI in Pakistan- A review
 
 
 - 🤔 I’m looking for help with ...
- Always in MATLAB.
+    Always in MATLAB.
 
 - 💬 Ask me about ...
 
-AI (Artificial Intelegence)
+        AI (Artificial Intelegence)
 
-Computer Vision
+        Computer Vision
 
-Deep learning
+        Deep learning
 
 - 📫 How to reach me: ...
 
 LinkenIn: https://www.linkedin.com/in/fayyaz-hussain-sahito
 
-- 😄 Pronouns: Fayyaz 
+- 😄 Pronouns: Fayyaz Hussain Sahito
 
 
 - ⚡ Fun fact: 
