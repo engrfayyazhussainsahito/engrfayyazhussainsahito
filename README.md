@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on: 
 
-                        -⚡ UWSN MAC protocol- A review*
+-                       ⚡ UWSN MAC protocol- A review*
     
-                        -⚡ Sentiment Analysis for Product, Content and Video*
+-                      ⚡ Sentiment Analysis for Product, Content and Video*
 
 - 🌱 I’m currently learning: 
 
@@ -24,7 +24,8 @@
 
 
 - 🤔 I’m looking for help with ...
-                    Always in MATLAB.
+                                  
+                                  Always in MATLAB
 
 - 💬 Ask me about ...
 
@@ -36,14 +37,16 @@
 
 - 📫 How to reach me: ...
 
-LinkenIn: https://www.linkedin.com/in/fayyaz-hussain-sahito
+        LinkenIn: https://www.linkedin.com/in/fayyaz-hussain-sahito
 
-- 😄 Pronouns: Fayyaz Hussain Sahito
+- 😄 Pronouns: 
+                    
+                    Fayyaz Hussain Sahito
 
 
 - ⚡ Fun fact: 
 
-I'm always confused, either i'm an introvert or ambivert.  
+      I'm always confused, either i'm an introvert or ambivert.  
 
 <!--
 **FayyazHussainsahito28/fayyazhussainsahito28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
