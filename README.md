@@ -40,9 +40,13 @@
 
 
 # 📫 ***You can find me:***
-***LinedIn***
+
+***[LinedIn](https://www.linkedin.com/in/fayyaz-hussain-sahito).***
+
 ***Github***
+
 ***Twitter***
+
 ***Instagram***
 
 - 👯 I’m looking to collaborate on ...
