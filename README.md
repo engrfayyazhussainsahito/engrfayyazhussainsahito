@@ -47,9 +47,11 @@
 ***The State of AI in Pakistan- A review***
 
 
+
 ## 🤔 I’m looking for help with: 
                                   
 ***Always in MATLAB***
+
 
 
 
@@ -60,6 +62,7 @@
 ***Computer Vision***
 
 ***Deep learning***
+
 
 
 ## ***📫 How to reach me: ...
@@ -73,17 +76,18 @@
 ***[Instagram](https://www.instagram.com/thefayyazhussainsahito/)***
 
 
+
 ## 😄 Pronouns: 
                     
-ٖ***English: Fayyaz Hussain Sahito 
+ٖ***English: Fayyaz Hussain Sahito*** 
 
-***Arabic: فیاض حسین سھتو
+***Arabic: فیاض حسین سھتو***
                     
 
 
 ## ⚡ Fun fact: 
 
-***I'm always confused, either i'm an introvert or ambivert.  
+***I'm always confused, either i'm an introvert or ambivert.***  
 
 <!--
 **FayyazHussainsahito28/fayyazhussainsahito28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
