@@ -87,7 +87,7 @@
                     
 ٖ***English: Fayyaz Hussain Sahito*** 
 
-***Arabic: فیاض حسین سھتو***
+***Arabic:*** **فیاض حسین سھتو**
                     
 
 
