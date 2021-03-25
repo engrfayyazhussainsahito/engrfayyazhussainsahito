@@ -6,7 +6,7 @@
 
 
 
-## 🔭 ***I’m currently working on:*** 
+# 🔭 ***I’m currently working on:*** 
 
 ⚡ ***UWSN MAC protocol- A review***
 
@@ -16,7 +16,7 @@
 
 
 
-## ✨ ***My Work so far:*** 
+# ✨ ***My Work so far:*** 
 
 ⚡ ***UWSN MAC protocol- A review***
 
@@ -26,20 +26,20 @@
 
 
 
-## 🌱 ***I’m currently learning:*** 
+# 🌱 ***I’m currently learning:*** 
 
-            :) ***MATLAB***
+***MATLAB***
 
-            :) ***PYTHON***
+***PYTHON***
 
-            :) ***AI***
+***AI***
 
-            :) ***Machine learning***
+***Machine learning***
 
-            :) ***Deep learning***
+***Deep learning***
 
 
-## 📫 ***You can find me:***
+# 📫 ***You can find me:***
 ***LinedIn***
 ***Github***
 ***Twitter***
