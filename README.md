@@ -13,7 +13,17 @@
 
 ⚡ ***The State of AI in Pakisatn- A Survey***
 
-- 🌱 I’m currently learning: 
+
+## ✨ My Work so far: 
+
+⚡ ***UWSN MAC protocol- A review***
+
+⚡ ***Sentiment Analysis for Product, Content and Video- FYP Project***
+
+⚡ ***Sentiment Analysis for Product, Content and Video- (Research Paper)***
+
+
+## 🌱 ***I’m currently learning:*** 
 
             :) MATLAB
 
