@@ -6,11 +6,10 @@
 
 
 
-- 🔭 I’m currently working on: 
-
--                       ⚡ UWSN MAC protocol- A review*
+## I’m currently working on (🔭)
+                       ***⚡ UWSN MAC protocol- A review***
     
--                      ⚡ Sentiment Analysis for Product, Content and Video*
+                     ***⚡ Sentiment Analysis for Product, Content and Video***
 
 - 🌱 I’m currently learning: 
 
@@ -29,7 +28,7 @@
         The State of AI in Pakistan- A review
 
 
-- 🤔 I’m looking for help with ...
+- I’m looking for help with (🤔)
                                   
                                   Always in MATLAB
 
