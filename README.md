@@ -6,10 +6,10 @@
 
 
 
-## I’m currently working on (🔭)
-                       ***⚡ UWSN MAC protocol- A review***
-    
-                     ***⚡ Sentiment Analysis for Product, Content and Video***
+## 🔭 I’m currently working on: 
+⚡ ***UWSN MAC protocol- A review***
+⚡ ***Sentiment Analysis for Product, Content and Video***
+⚡ *** The State of AI in Pakisatn- A Survey***
 
 - 🌱 I’m currently learning: 
 
