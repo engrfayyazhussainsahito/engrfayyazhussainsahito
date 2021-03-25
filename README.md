@@ -6,7 +6,7 @@
 
 
 
-### 🔭 ***I’m currently working on:*** 
+## 🔭 ***I’m currently working on:*** 
 
 ⚡ **UWSN MAC protocol- A review**
 
@@ -16,7 +16,7 @@
 
 
 
-# ✨ ***My Work so far:*** 
+## ✨ ***My Work so far:*** 
 
 ⚡ ***UWSN MAC protocol- A review***
 
@@ -26,7 +26,7 @@
 
 
 
-# 🌱 ***I’m currently learning:*** 
+## 🌱 ***I’m currently learning:*** 
 
 ***MATLAB***
 
@@ -39,15 +39,15 @@
 ***Deep learning***
 
 
-# 📫 ***You can find me:***
+## 📫 ***You can find me:***
 
-***[LinedIn](https://www.linkedin.com/in/fayyaz-hussain-sahito).***
+***[LinedIn](https://www.linkedin.com/in/fayyaz-hussain-sahito)***
 
-***Github***
+***[Github](https://github.com/engrfayyazhussainsahito)***
 
-***Twitter***
+***[Twitter](https://twitter.com/fhs_says_)***
 
-***Instagram***
+***[Instagram](https://www.instagram.com/thefayyazhussainsahito/)***
 
 - 👯 I’m looking to collaborate on ...
 
