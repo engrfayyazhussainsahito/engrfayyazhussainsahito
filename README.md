@@ -6,7 +6,7 @@
 
 
 
-## 🔭 ***I’m currently working on:*** 
+## 🔭 ***I’m currently working on....*** 
 
 ⚡ **UWSN MAC protocol- A review**
 
@@ -16,7 +16,7 @@
 
 
 
-## ✨ ***My Work so far:*** 
+## ✨ ***My Work so far....*** 
 
 ⚡ ***UWSN MAC protocol- A review***
 
@@ -26,7 +26,7 @@
 
 
 
-## 🌱 ***I’m currently learning:*** 
+## 🌱 ***I’m currently learning....*** 
 
 ***MATLAB***
 
@@ -48,14 +48,18 @@
 
 
 
-## 🤔 I’m looking for help with: 
+
+
+## 🤔 I’m looking for help with.... 
                                   
 ***Always in MATLAB***
 
 
 
 
-## 💬 Ask me about ...
+
+
+## 💬 Ask me about....
 
 ***AI (Artificial Intelegence)***
 
@@ -65,7 +69,7 @@
 
 
 
-## ***📫 How to reach me: ...
+## ***📫 How to reach me....
 
 ***[LinedIn](https://www.linkedin.com/in/fayyaz-hussain-sahito)***
 
@@ -77,12 +81,16 @@
 
 
 
+
+
 ## 😄 Pronouns: 
                     
 ٖ***English: Fayyaz Hussain Sahito*** 
 
 ***Arabic: فیاض حسین سھتو***
                     
+
+
 
 
 ## ⚡ Fun fact: 
