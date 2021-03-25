@@ -1,4 +1,4 @@
-# ***Hi there I'm Fayyaz Hussain Sahito 👋⚡***
+# ***Hi there I'm Fayyaz H. Sahito 👋⚡***
 ***I'm a CCNA certified Telecommunication Engineer, MATLAB and Python Cody and a Research Enthusiast from Pakistan. I'm currently working on my FYP project and a my research papers as well. I'm pretty much intrested in 5G and other new technologies like AI | ML | Deep learning | Data Science | Computer Vision and IoT. In networking my area of intrest is Security. When I'm not developing and building things, you can find me on online learning, writing an article, watching anime,  Most of my days are spent working on projects, Studying or watching new trends of technologies.*** 
 
 
@@ -39,7 +39,30 @@
 ***Deep learning***
 
 
-## 📫 ***You can find me:***
+
+
+
+## 👯 I’m looking to collaborate on ...
+
+***The State of AI in Pakistan- A review***
+
+
+## 🤔 I’m looking for help with: 
+                                  
+***Always in MATLAB***
+
+
+
+## 💬 Ask me about ...
+
+***AI (Artificial Intelegence)***
+
+***Computer Vision***
+
+***Deep learning***
+
+
+## ***📫 How to reach me: ...
 
 ***[LinedIn](https://www.linkedin.com/in/fayyaz-hussain-sahito)***
 
@@ -49,35 +72,17 @@
 
 ***[Instagram](https://www.instagram.com/thefayyazhussainsahito/)***
 
-- 👯 I’m looking to collaborate on ...
 
-        The State of AI in Pakistan- A review
-
-
-- I’m looking for help with (🤔)
-                                  
-                                  Always in MATLAB
-
-- 💬 Ask me about ...
-
-        AI (Artificial Intelegence)
-
-        Computer Vision
-
-        Deep learning
-
-- 📫 How to reach me: ...
-
-        LinkenIn: https://www.linkedin.com/in/fayyaz-hussain-sahito
-
-- 😄 Pronouns: 
+## 😄 Pronouns: 
                     
-                    Fayyaz Hussain Sahito
+ٖ***English: Fayyaz Hussain Sahito 
+***Arabic: فیاض حسین سھتو
+                    
 
 
-- ⚡ Fun fact: 
+## ⚡ Fun fact: 
 
-      I'm always confused, either i'm an introvert or ambivert.  
+***I'm always confused, either i'm an introvert or ambivert.  
 
 <!--
 **FayyazHussainsahito28/fayyazhussainsahito28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
