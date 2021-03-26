@@ -85,7 +85,7 @@
 
 ### 😄 Pronouns: 
 
-***He/Him/His***
+***He/Him***
                     
 ٖ***English: Fayyaz Hussain Sahito*** 
 
