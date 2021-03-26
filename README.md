@@ -69,7 +69,7 @@
 
 
 
-## ***📫 How to reach me....
+## 📫 ***How to reach me***....
 
 ***[LinedIn](https://www.linkedin.com/in/fayyaz-hussain-sahito)***
 
@@ -83,7 +83,7 @@
 
 
 
-##### 😄 Pronouns: 
+#### 😄 Pronouns: 
 
 ***He/Him/His***
                     
