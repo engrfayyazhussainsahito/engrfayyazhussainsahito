@@ -1,5 +1,5 @@
 # ***Hi there I'm Fayyaz H. Sahito 👋⚡***
-***I'm a CCNA certified Telecommunication Engineer, MATLAB and Python Cody and a Research Enthusiast from Pakistan. I'm currently working on my FYP project and a my research papers as well. I'm pretty much intrested in 5G and other new technologies like AI | ML | Deep learning | Data Science | Computer Vision and IoT. In networking my area of intrest is Security. When I'm not developing and building things, you can find me on online learning, writing an article, watching anime,  Most of my days are spent working on projects, Studying or watching new trends of technologies.*** 
+***I'm a CCNA certified Telecommunication Engineer, MATLAB and Python Cody, a Research Enthusiast and a WordPress developer from Pakistan. I'm currently working on my FYP project and a my research papers as well. I'm pretty much intrested in 5G and other new technologies like AI | ML | Deep learning | Data Science | Computer Vision and IoT. In networking my area of intrest is Security. When I'm not developing and building things, you can find me on online learning, writing an article, watching anime,  Most of my days are spent working on projects, Studying or watching new trends of technologies.*** 
 
 
 
