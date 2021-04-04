@@ -97,7 +97,7 @@
 
 ### ⚡ Fun fact: 
 
-***I'm always confused, either i'm an introvert or ambivert.***  
+***I'm always confused, either i'm an introvert, Semi-Introvert or ambivert.***  
 
 <!--
 **FayyazHussainsahito28/fayyazhussainsahito28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
