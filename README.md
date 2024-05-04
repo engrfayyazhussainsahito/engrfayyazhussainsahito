@@ -1,5 +1,5 @@
 # ***Hi there I'm Fayyaz H. Sahito 👋⚡***
-***I'm Junior DevOps and Cloud Engineer from Pakistan. I'm currently on DevOps tool like Kubernetes, Ansible, Docker, Terraform and my research papers as well. I'm pretty much interested in both AWS and Azure Cloud platforms. In networking my area of interest is Security. When I'm not developing and building things, one can find me online learning, writing an article, watching anime, Most of my days are spent working on projects, Studying or watching new trends of technologies.*** 
+***I'm a Junior DevOps and Cloud Engineer from Pakistan. I'm currently working on DevOps tools like Kubernetes, Ansible, Docker, and Teraform, and my research papers as well. I'm pretty much interested in both AWS and Azure Cloud platforms. In networking my area of interest is Security. When I'm not developing and building things, I spend my time learning online, writing an article, and watching documentaries, Most of my days are spent working on projects, studying or watching new trends of technologies.*** 
 
 
 
@@ -9,11 +9,11 @@
 ### 🔭 ***I’m currently working on....*** 
 
 ⚡ **Linux OS**
-⚡ **Kubertetes**
+⚡ **Kubernetes**
 ⚡ **Docker**
 ⚡ **AWS and Azure Cloud**
 ⚡ **Changing Trends in Networking and Information Technology**
-⚡ **The State of AI in Pakisatn- A Survey**
+⚡ **The State of AI in Pakistan- A Survey**
 
 
 
