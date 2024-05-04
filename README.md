@@ -1,5 +1,5 @@
 # ***Hi there I'm Fayyaz H. Sahito 👋⚡***
-***I'm a CCNA certified Telecommunication Engineer, MATLAB and Python Cody, and a Research Enthusiast from Pakistan. I'm currently working on my FYP project and my research papers as well. I'm pretty much interested in 5G and other new technologies like AI | ML | Deep learning | Data Science | Computer Vision and IoT. In networking my area of interest is Security. When I'm not developing and building things, you can find me online learning, writing an article, watching anime, Most of my days are spent working on projects, Studying or watching new trends of technologies.*** 
+***I'm Junior DevOps and Cloud Engineer from Pakistan. I'm currently on DevOps tool like Kubernetes, Ansible, Docker, Terraform and my research papers as well. I'm pretty much interested in both AWS and Azure Cloud platforms. In networking my area of interest is Security. When I'm not developing and building things, one can find me online learning, writing an article, watching anime, Most of my days are spent working on projects, Studying or watching new trends of technologies.*** 
 
 
 
@@ -8,43 +8,26 @@
 
 ### 🔭 ***I’m currently working on....*** 
 
-⚡ **UWSN MAC protocol- A review**
-
-⚡ **Sentiment Analysis for Product, Content and Video**
-
+⚡ **Linux OS**
+⚡ **Kubertetes**
+⚡ **Docker**
+⚡ **AWS and Azure Cloud**
+⚡ **Changing Trends in Networking and Information Technology**
 ⚡ **The State of AI in Pakisatn- A Survey**
 
-
-
-### ✨ ***My Work so far....*** 
-
-⚡ ***UWSN MAC protocol- A review***
-
-⚡ ***Sentiment Analysis for Product, Content and Video- FYP Project***
-
-⚡ ***Sentiment Analysis for Product, Content and Video- (Research Paper)***
 
 
 
 ### 🌱 ***I’m currently learning....*** 
 
-***MATLAB***
+***DevOps Tools***
 
-***PYTHON***
+***Cloud Computing***
 
 ***AI***
 
-***Machine learning***
+***Changing Trends in networking Protocols***
 
-***Deep learning***
-
-
-
-
-
-### 👯 I’m looking to collaborate on....
-
-***The State of AI in Pakistan- A review***
 
 
 
@@ -52,20 +35,9 @@
 
 ### 🤔 I’m looking for help with.... 
                                   
-***Always in MATLAB***
+***Trends in DevOps culture***
 
 
-
-
-
-
-### 💬 Ask me about....
-
-***AI (Artificial Intelegence)***
-
-***Computer Vision***
-
-***Deep learning***
 
 
 
@@ -75,29 +47,13 @@
 
 ***[Github](https://github.com/engrfayyazhussainsahito)***
 
-***[Twitter](https://twitter.com/fhs_says_)***
-
-***[Instagram](https://www.instagram.com/thefayyazhussainsahito/)***
+***[Gmail](_engrfayyazhussainsahito@gmail.com)***
 
 
 
 
-
-### 😄 Pronouns: 
-
-***He/Him***
-                    
-ٖ***English: Fayyaz Hussain Sahito*** 
-
-***Arabic:*** **فیاض حسین سھتو**
                     
 
-
-
-
-### ⚡ Fun fact: 
-
-***I'm always confused, either i'm an introvert, Semi-Introvert or ambivert.***  
 
 <!--
 **FayyazHussainsahito28/fayyazhussainsahito28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
