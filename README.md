@@ -54,7 +54,7 @@ Laboratory instruction across eight courses.
 
 ## Lab bench
 
-Worked examples from the labs I run, grouped by what I teach. A README cannot run code, so these show real inputs and outputs. Interactive versions of the tools are on my portfolio site: [my portfolio] (https://engrfayyazhussainsahito.github.io/My-Portfolio/)
+Worked examples from the labs I run, grouped by what I teach. A README cannot run code, so these show real inputs and outputs. Interactive versions of the tools are on my portfolio site:  [My Portfolio](https://engrfayyazhussainsahito.github.io/My-Portfolio/)
 
 <details>
 <summary><b>Networking:</b> subnetting, IPv6, routing metrics, ports</summary>
