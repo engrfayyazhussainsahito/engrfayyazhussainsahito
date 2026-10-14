@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 36" width="900" role="img" aria-label="OSPF, BGP, EIGRP, RIP, IPv6, VLANs, Python, C++, RISC-V, Ethical Hacking, Malware Analysis, Cryptography, AI Security, Packet Tracer">
+<style>.k{fill:#5f5f5f;font:13px ui-monospace,Menlo,Consolas,monospace}.r{stroke:#e4e4e4}
+@media(prefers-color-scheme:dark){.k{fill:#a3a3a3}.r{stroke:#2c2c2c}}
+.s{animation:sc 40s linear infinite}@keyframes sc{to{transform:translateX(-1200px)}}</style>
+<line class="r" x1="0" y1=".5" x2="900" y2=".5"/><line class="r" x1="0" y1="35.5" x2="900" y2="35.5"/>
+<g class="s"><text class="k" xml:space="preserve" x="0" y="23" textLength="1200" lengthAdjust="spacing">OSPF   BGP   EIGRP   RIP   IPv6   VLANs   Python   C++   RISC-V   Ethical Hacking   Malware Analysis   Cryptography   AI Security   Packet Tracer   </text><text class="k" xml:space="preserve" x="1200" y="23" textLength="1200" lengthAdjust="spacing">OSPF   BGP   EIGRP   RIP   IPv6   VLANs   Python   C++   RISC-V   Ethical Hacking   Malware Analysis   Cryptography   AI Security   Packet Tracer   </text></g>
+</svg>
