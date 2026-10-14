@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Fayaz H. Sahito, Lab Instructor in Computer Science" width="100%">
+<img src="banner.svg" alt="Fayaz H. Sahito, Lab Instructor in Computer Science" width="100%">
 
-<img src="assets/typing.svg" alt="Terminal: Fayaz H. Sahito, Lab Instructor in Computer Science. Focus: networks, cybersecurity, AI security." width="560">
+<img src="typing.svg" alt="Terminal: Fayaz H. Sahito, Lab Instructor in Computer Science. Focus: networks, cybersecurity, AI security." width="560">
 
-<img src="assets/stats.svg" alt="8 courses taught, 10+ certifications, 3 years Cisco consulting, CCNA trainer" width="100%">
+<img src="stats.svg" alt="8 courses taught, 10+ certifications, 3 years Cisco consulting, CCNA trainer" width="100%">
 
-<img src="assets/ticker.svg" alt="OSPF, BGP, EIGRP, RIP, IPv6, VLANs, Python, C++, RISC-V, Ethical Hacking, Malware Analysis, Cryptography, AI Security, Packet Tracer" width="100%">
+<img src="ticker.svg" alt="OSPF, BGP, EIGRP, RIP, IPv6, VLANs, Python, C++, RISC-V, Ethical Hacking, Malware Analysis, Cryptography, AI Security, Packet Tracer" width="100%">
 
 </div>
 
